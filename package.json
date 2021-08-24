@@ -1,0 +1,19 @@
+{
+  "name": "projecte",
+  "version": "1.0.0",
+  "description": "this is a test project to learn Git and Node.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sealvor@github.com/sealvor/projecte.git"
+  },
+  "author": "Tom Bee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sealvor/projecte/issues"
+  },
+  "homepage": "https://github.com/sealvor/projecte#readme"
+}
